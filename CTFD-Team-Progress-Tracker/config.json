@@ -1,0 +1,7 @@
+{
+    "name": "Team Progress Tracker",
+    "route": "/admin/plugins/CTFD-Team-Progress-Tracker",
+    "title": "Team Progress Tracker",
+    "description": "Plugin permettant d'afficher la progression d'une équipe durant le CTF",
+    "author": "Hack'olyte"
+}
