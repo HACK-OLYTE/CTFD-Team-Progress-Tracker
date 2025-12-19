@@ -126,7 +126,7 @@ Ce plugin a été conçu avec la sécurité en priorité :
 
 ## Démonstration du fonctionnement du plugin
 
-https://github.com/user-attachments/assets/fd262fdd-6c8f-456b-8149-10d2b98d810d
+https://github.com/user-attachments/assets/307375e1-888f-4867-84cb-3f6eaef70792
 
 ## Cas d'usage
 
