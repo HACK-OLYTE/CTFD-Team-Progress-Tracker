@@ -145,6 +145,14 @@ Analysez les patterns de résolution pour améliorer vos futurs événements.
 ### 5. Validation de la configuration
 Vérifiez que tous les challenges sont accessibles via le bon chemin de prérequis.
 
+## Démonstration du plugin 
+
+
+https://github.com/user-attachments/assets/fd262fdd-6c8f-456b-8149-10d2b98d810d
+
+
+
+
 ## Limitations
 
 - Affichage limité à une équipe à la fois (pas de vue comparative)
